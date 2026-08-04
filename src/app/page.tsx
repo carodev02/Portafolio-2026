@@ -36,7 +36,7 @@ export default function Home() {
             </div>
             <div className="mt-9 flex flex-col gap-3 sm:flex-row">
               <Link href="#proyectos" className="button-primary px-6 py-3.5">Ver proyectos <Icon name="arrow" className="size-4" /></Link>
-              <a href="/cv-ximena.html" download className="button-secondary px-6 py-3.5">Descargar CV</a>
+              <a href="/CV_Carolina.pdf" target="_blank" rel="noopener noreferrer" className="button-secondary px-6 py-3.5">Visualizar CV</a>
             </div>
           </div>
 
