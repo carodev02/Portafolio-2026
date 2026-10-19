@@ -39,7 +39,7 @@ export const projects: Project[] = [
       '/projects/lab11-12/inventory.webp',
     ],
     technologies: ['Flutter', 'Dart', 'Cupertino'],
-    githubUrl: 'https://github.com/ximenacarolina0211/Laboratorio-11-12-Multiplataformas',
+    githubUrl: 'https://github.com/carodev02/Laboratorio-11-12-Multiplataformas',
     featured: true,
   },
   {
@@ -69,7 +69,7 @@ export const projects: Project[] = [
       '/projects/lab14/cloud-firestore.webp',
     ],
     technologies: ['SwiftUI', 'Firebase Auth', 'Cloud Firestore'],
-    githubUrl: 'https://github.com/ximenacarolina0211/Laboratorio-14---Programaci-nM-vilesAvanzada',
+    githubUrl: 'https://github.com/carodev02/Laboratorio-14---Programaci-nM-vilesAvanzada',
     featured: false,
   },
   {
@@ -84,7 +84,7 @@ export const projects: Project[] = [
     ],
     technologies: ['NextAuth.js', 'bcrypt', 'OAuth'],
     demoUrl: 'https://laboratorio-13-web-avanzada.vercel.app',
-    githubUrl: 'https://github.com/ximenacarolina0211/Laboratorio-13-Web-Avanzada',
+    githubUrl: 'https://github.com/carodev02/Laboratorio-13-Web-Avanzada',
     featured: false,
   },
   {
@@ -105,7 +105,7 @@ export const personalInfo = {
   title: 'Desarrolladora Full Stack',
   description: 'Creo experiencias web y móviles claras, funcionales y pensadas para las personas.',
   email: 'ximena.carolina.02.06@gmail.com',
-  github: 'https://github.com/ximenacarolina0211',
+  github: 'https://github.com/carodev02',
   linkedin: 'https://www.linkedin.com/in/ximena-carolina-chumbirayco-pelayo-54905a333/',
   siteUrl: 'https://my-portfolio-one-ivory-54.vercel.app',
   avatar: '/ximena-profile.webp',
